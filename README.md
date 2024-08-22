@@ -1,4 +1,4 @@
-# SolarFarm-DataAnalysis-BeninSierraTogo
+# Solar Farm DataAnalysis Benin Sierra Togo
 
 ## Overview
 
