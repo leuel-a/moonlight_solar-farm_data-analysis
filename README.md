@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **SolarFarm-DataAnalysis-BeninSierraTogo** repository. This project is focused on understanding, exploring, and analyzing solar farm data from Benin, Sierra Leone, and Togo. The analysis aims to provide strategic recommendations for enhancing operational efficiency and sustainability through targeted solar investments.
+Welcome to the **Solar Farm DataAnalysis Benin Sierra Togo** repository. This project is focused on understanding, exploring, and analyzing solar farm data from Benin, Sierra Leone, and Togo. The analysis aims to provide strategic recommendations for enhancing operational efficiency and sustainability through targeted solar investments.
 
 This repository is part of a challenge designed to evaluate candidates for a 12-week training program in Data Engineering (DE), Financial Analytics (FA), and Machine Learning Engineering (MLE).
 
